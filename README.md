@@ -15,7 +15,7 @@ Siga estas etapas para executar o projeto:
 1. Faça o download do arquivo Tableau clicando [aqui](https://github.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/raw/main/Data/Projeto%205%20-%20Individual.twbx).
 2. Certifique-se de ter o Tableau instalado em seu computador. Se você ainda não tem, você pode baixar a versão mais recente do [Tableau aqui](https://www.tableau.com/pt-br/trial/download-tableau).
 3. Após fazer o download do arquivo Tableau, abra-o no Tableau Desktop para visualizar os dashboards.
-4. Você visualizar os Gráficos com uma resolução maior nos PDFs [aqui](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou baixar o PDF dos dashboards clicando aqui [Painel 1](https://raw.githubusercontent.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/7744dc0ed6a3c71f5ea5ac77ad23cb9a67b5e08b/Imagens/Painel%202.pdf) e aqui [Painel 2](https://raw.githubusercontent.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/7744dc0ed6a3c71f5ea5ac77ad23cb9a67b5e08b/Imagens/Painel%203.pdf).
+4. Você pode visualizar os Gráficos com uma resolução maior nos PDFs dos dashboards clicando aqui [Painel 1](https://raw.githubusercontent.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/7744dc0ed6a3c71f5ea5ac77ad23cb9a67b5e08b/Imagens/Painel%202.pdf) e aqui [Painel 2](https://raw.githubusercontent.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/7744dc0ed6a3c71f5ea5ac77ad23cb9a67b5e08b/Imagens/Painel%203.pdf).
 
 
 ## StoryTelling
