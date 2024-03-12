@@ -15,7 +15,8 @@ Siga estas etapas para executar o projeto:
 1. Faça o download do arquivo Tableau clicando [aqui](https://github.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/raw/main/Data/Projeto%205%20-%20Individual.twbx).
 2. Certifique-se de ter o Tableau instalado em seu computador. Se você ainda não tem, você pode baixar a versão mais recente do [Tableau aqui](https://www.tableau.com/pt-br/trial/download-tableau).
 3. Após fazer o download do arquivo Tableau, abra-o no Tableau Desktop para visualizar os dashboards.
-4. Para uma experiência de visualização aprimorada, sugerimos acessar os dashboards pela web clicando [aqui](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou baixar o PDF dos dashboards clicando [aqui](Data/História%201.pdf).
+4. Você visualizar os Gráficos com uma resolução maior nos PDFs [aqui](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou baixar o PDF dos dashboards clicando aqui [Painel 1](https://raw.githubusercontent.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/7744dc0ed6a3c71f5ea5ac77ad23cb9a67b5e08b/Imagens/Painel%202.pdf) e aqui [Painel 2](https://raw.githubusercontent.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/7744dc0ed6a3c71f5ea5ac77ad23cb9a67b5e08b/Imagens/Painel%203.pdf).
+
 
 ## StoryTelling
 
@@ -48,7 +49,7 @@ Ao abordar questões relacionadas à progressão na carreira e ao tipo de trabal
 ### Gráfico do RH e Gráfico da Pesquisa de Saída
 
 <div style="display: flex;">
-    <img src="Doc/Images/HRBP.png" style="width: 100%; height: auto;">
+    <img src="https://github.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/blob/main/Imagens/Painel%202.png?raw=true" style="width: 100%; height: auto;">
 </div>
 
 Essa análise nos fornece insights valiosos sobre as razões por trás da saída dos funcionários, com base nos dados fornecidos pelo RH. Vamos examinar cada aspecto identificado:
@@ -66,5 +67,13 @@ Com base nessa análise, podemos concluir que a progressão na carreira e o tipo
 ## Graficos Extras Criado
 
 <div style="display: flex;">
-    <img src="Doc/Images/Barras.png" style="width: 100%; height: auto;">
+    <img src="https://github.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/blob/main/Imagens/Painel%203.png?raw=true" style="width: 100%; height: auto;">
 </div>
+
+
+
+**Gráfico de Dispersão com linha de tendencia**
+
+**Grupo 1 (saídas de 0 a 44)**: Com base na linha de tendência estável observada neste grupo, podemos inferir que há uma consistência na quantidade de saídas ao longo do tempo. Isso sugere que as razões para saída dos funcionários nesse grupo podem ser mais previsíveis e estáveis, talvez relacionadas a fatores como aposentadoria, movimentação de carreira planejada ou condições de trabalho relativamente estáveis. Uma linha de tendência plana indica que a taxa de saída tende a permanecer constante ao longo do tempo, sem grandes variações.
+
+**Grupo 2 (saídas de 45 a 170)**: A linha de tendência mais expressiva observada neste grupo sugere um aumento significativo na quantidade de saídas ao longo do tempo. Isso indica que as razões para saída dos funcionários nesse grupo podem estar sujeitas a fatores mais dinâmicos e complexos, como insatisfação no trabalho, falta de oportunidades de crescimento ou mudanças no ambiente organizacional. A tendência exponencial sugere um aumento rápido e contínuo na taxa de saída, o que pode exigir uma investigação mais aprofundada e medidas proativas para mitigar o problema.
