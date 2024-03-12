@@ -44,3 +44,27 @@ Os dados mostram que a falta de oportunidades de avanço na carreira e a insatis
 Ao abordar questões relacionadas à progressão na carreira e ao tipo de trabalho, podemos aumentar a satisfação e o engajamento dos funcionários, reduzindo assim a evasão e promovendo um ambiente de trabalho mais produtivo e saudável. É essencial agir com rapidez e eficácia para reter talentos valiosos e fortalecer nossa equipe para o futuro.
 
 ### Entendendo os Gráficos
+
+### Gráfico do RH e Gráfico da Pesquisa de Saída
+
+<div style="display: flex;">
+    <img src="Doc/Images/HRBP.png" style="width: 100%; height: auto;">
+</div>
+
+Essa análise nos fornece insights valiosos sobre as razões por trás da saída dos funcionários, com base nos dados fornecidos pelo RH. Vamos examinar cada aspecto identificado:
+
+**Progressão de Carreira e Tipo de Trabalho (impacto moderado)**: Ambos os fatores indicam que os funcionários estão buscando oportunidades de crescimento profissional e um ambiente de trabalho que se alinhe com suas habilidades e interesses. Embora não sejam os motivos de saída mais impactantes, ainda são importantes, pois indicam a necessidade de garantir que os funcionários sintam que estão progredindo em suas carreiras e desempenhando funções que os desafiem e os motivem.
+
+**Doença (impacto significativo)**: O fato de a doença ser identificada como uma razão significativa para a saída dos funcionários sugere questões relacionadas à saúde e ao bem-estar no local de trabalho. Isso pode incluir condições de trabalho estressantes, falta de suporte para problemas de saúde ou uma cultura que não promove o equilíbrio entre trabalho e vida pessoal. É crucial abordar essas questões para garantir o bem-estar dos funcionários e reduzir a evasão.
+
+**Conflito com outros e Carga horária (alta correlação e capacidade de impacto considerável)**: Esses fatores destacam questões interpessoais e de gerenciamento de tempo que estão influenciando significativamente a decisão dos funcionários de deixar a empresa. Conflitos no local de trabalho podem criar um ambiente negativo e afetar a moral da equipe, enquanto uma carga horária excessiva pode levar à exaustão e ao esgotamento dos funcionários. É importante investigar essas questões mais a fundo e implementar medidas para promover um ambiente de trabalho colaborativo e saudável, além de garantir uma carga horária razoável e gerenciável para os funcionários.
+
+## Conclusão dos Gráficos
+
+Com base nessa análise, podemos concluir que a progressão na carreira e o tipo de trabalho são os principais impulsionadores da evasão de funcionários, enquanto outras questões podem ter uma influência menos significativa. Portanto, é crucial concentrar os esforços de retenção de talentos nessas áreas prioritárias para promover um ambiente de trabalho mais satisfatório e atrativo para os colaboradores.
+
+## Graficos Extras Criado
+
+<div style="display: flex;">
+    <img src="Doc/Images/Barras.png" style="width: 100%; height: auto;">
+</div>
