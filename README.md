@@ -12,7 +12,7 @@ Este projeto visa utilizar o Tableau para criar dashboards que identifiquem as r
 
 Siga estas etapas para executar o projeto:
 
-1. Faça o download do arquivo Tableau clicando [aqui](Data/ProjetoIndividual5.twbx).
+1. Faça o download do arquivo Tableau clicando [aqui](https://github.com/alsantosad/Projeto5-Analise-de-pessoas-deixando-o-trabalho/raw/main/Data/Projeto%205%20-%20Individual.twbx).
 2. Certifique-se de ter o Tableau instalado em seu computador. Se você ainda não tem, você pode baixar a versão mais recente do [Tableau aqui](https://www.tableau.com/pt-br/trial/download-tableau).
 3. Após fazer o download do arquivo Tableau, abra-o no Tableau Desktop para visualizar os dashboards.
 4. Para uma experiência de visualização aprimorada, sugerimos acessar os dashboards pela web clicando [aqui](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou baixar o PDF dos dashboards clicando [aqui](Data/História%201.pdf).
