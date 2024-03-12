@@ -77,3 +77,7 @@ Com base nessa análise, podemos concluir que a progressão na carreira e o tipo
 **Grupo 1 (saídas de 0 a 44)**: Com base na linha de tendência estável observada neste grupo, podemos inferir que há uma consistência na quantidade de saídas ao longo do tempo. Isso sugere que as razões para saída dos funcionários nesse grupo podem ser mais previsíveis e estáveis, talvez relacionadas a fatores como aposentadoria, movimentação de carreira planejada ou condições de trabalho relativamente estáveis. Uma linha de tendência plana indica que a taxa de saída tende a permanecer constante ao longo do tempo, sem grandes variações.
 
 **Grupo 2 (saídas de 45 a 170)**: A linha de tendência mais expressiva observada neste grupo sugere um aumento significativo na quantidade de saídas ao longo do tempo. Isso indica que as razões para saída dos funcionários nesse grupo podem estar sujeitas a fatores mais dinâmicos e complexos, como insatisfação no trabalho, falta de oportunidades de crescimento ou mudanças no ambiente organizacional. A tendência exponencial sugere um aumento rápido e contínuo na taxa de saída, o que pode exigir uma investigação mais aprofundada e medidas proativas para mitigar o problema.
+
+**Gráfico de Barras**
+Utilizei esse Gráfico para fazer um comparativo com a pesquisa de saída e o RH.
+Nele é possível através do heatmap ver as maiores razões de saída e podemos comparar a pesquisa e o RH.
